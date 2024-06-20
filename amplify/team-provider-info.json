@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-split-dev-edef2-authRole",
+      "UnauthRoleArn": "arn:aws:iam::470882442418:role/amplify-split-dev-edef2-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::470882442418:role/amplify-split-dev-edef2-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-split-dev-edef2-deployment",
+      "UnauthRoleName": "amplify-split-dev-edef2-unauthRole",
+      "StackName": "amplify-split-dev-edef2",
+      "StackId": "arn:aws:cloudformation:us-east-1:470882442418:stack/amplify-split-dev-edef2/e09b6aa0-2e5e-11ef-917a-0affcc15695b",
+      "AmplifyAppId": "d33mqlti1pr1hx"
+    },
+    "categories": {
+      "auth": {
+        "split5391d8c1": {}
+      }
+    }
+  }
+}
